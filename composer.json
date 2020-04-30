@@ -16,8 +16,6 @@
   ],
   "require": {
     "php": ">=7.4.0",
-    "ext-json": "*",
-    "ext-curl": "*",
     "topthink/framework": "^6.0.1"
   },
   "autoload": {
